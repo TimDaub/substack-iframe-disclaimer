@@ -60,6 +60,8 @@ widget fully intact.
 
 (If you end up using it, don't forget to replace my name ("Tim") with yours.)
 
+For a [live demo](https://timdaub.github.io/2021/01/16/web-principles/) visit the provided link and open the developer console.
+
 ## License
 
 MIT
