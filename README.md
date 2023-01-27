@@ -1,3 +1,4 @@
+# Deprecation: 2023-01-27, I've stopped using Substack.
 # substack-iframe-disclaimer
 
 > Add a disclaimer to Substack Newsletter iframe unsolicited job ad
